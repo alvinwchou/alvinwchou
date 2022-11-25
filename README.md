@@ -1,4 +1,4 @@
-Hi 👋 My name is Alvin Chou
+Hi 👋 My name is Alvin
 ===========================
 
 Frontend Developer
