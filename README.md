@@ -7,9 +7,8 @@ Frontend Developer
 I am no sports expert, gaming addict or crypto enthusiast... I am a web developer, I like to get things done, solve problems, and enjoy learning a lot along the way.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [alvinwchou.com](http://www.alvinwchou.com/)
+* 🖥️  See my portfolio at [alvinwchou.com](https://alvinwchou.github.io/portfolio/)
 * ✉️  You can contact me at [alvinwchou@gmail.com](mailto:alvinwchou@gmail.com)
-* 🚀  I'm currently working on [Please Reply](http://pleasereply.netlify.app/)
 * 🧠  I'm learning Node, Redux, and TypeScript
 
 ### Skills
